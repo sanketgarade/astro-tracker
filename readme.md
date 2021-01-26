@@ -1,8 +1,11 @@
 # Astro Tracker
-## Computer controlled telescope mount
+## Computer controlled alt-az telescope mount
 
-This is my M. Tech. project data, completed back in 2015.
+This is my M. Tech. Mechatronics project data.
 
-**TODO** 
-- Organise folders and files in a proper structure for ease of understanding
-- Desktop application software is missing
+Use the **Reports** folder to begin.
+
+
+**NOTE**
+- Some data might be missing and/or broken
+  - PC application software source code (Visual studio project) is missing
