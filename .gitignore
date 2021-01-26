@@ -1,0 +1,8 @@
+" ignore macos DS store file
+.DS_Store
+
+" vim swap files
+*.swp
+
+" personal data which is to be removed
+personal_data/

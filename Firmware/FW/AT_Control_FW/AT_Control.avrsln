@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# AvrStudio Solution File, Format Version 11.00
+Project("{D1100916-62DA-4D80-A9B4-55A1E7CCEEB3}") = "AT_Control", "AT_Test_Stubs\AT_Control.avrgccproj", "{8918C7CB-1432-43B4-96A3-EE77097C4909}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8918C7CB-1432-43B4-96A3-EE77097C4909}.Debug|AVR.ActiveCfg = Debug|AVR
+		{8918C7CB-1432-43B4-96A3-EE77097C4909}.Debug|AVR.Build.0 = Debug|AVR
+		{8918C7CB-1432-43B4-96A3-EE77097C4909}.Release|AVR.ActiveCfg = Release|AVR
+		{8918C7CB-1432-43B4-96A3-EE77097C4909}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
