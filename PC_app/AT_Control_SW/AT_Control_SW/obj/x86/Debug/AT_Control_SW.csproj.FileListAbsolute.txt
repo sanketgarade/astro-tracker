@@ -1,0 +1,9 @@
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\bin\Debug\AT_Control_SW.exe
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\bin\Debug\AT_Control_SW.pdb
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\obj\x86\Debug\AT_Control_SW.Form1.resources
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\obj\x86\Debug\AT_Control_SW.Properties.Resources.resources
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\obj\x86\Debug\AT_Control_SW.exe
+C:\Users\Vedashree\Documents\Visual Studio 2010\Projects\AT_Control_SW\AT_Control_SW\obj\x86\Debug\AT_Control_SW.pdb

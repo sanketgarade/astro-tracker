@@ -22,7 +22,3 @@ In other folders you can find all the documents and files for firmware code, har
 ---
 
 <img width="1006" height="643" alt="image" src="https://github.com/user-attachments/assets/4e0c1d96-7107-4bce-be56-2608be2d8485" />
-
-**NOTE**
-
-- PC application software source code (Visual studio project) is missing
